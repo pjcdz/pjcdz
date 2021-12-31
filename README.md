@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Pablo Cardozo. I'm an Argentinian college student. 
-- 👀 I’m interested in web-development, games and tech
-- 🌱 I’m currently learning HTML, CSS and looking forward to JS
+<h3 style="font-size: 2rem;font-weight:bold" align="center">Hi, I'm Pablo Cardozo</h1>
+<h1 align="center">A newbie web developer.</h2>
+<p align="center">Currently learning HTML, CSS and looking forward to JS</p>
 
-[![Website](https://img.shields.io/website?label=pablojc.dev&style=for-the-badge&url=https%3A%2F%2Fpablojc.tk)](https://pablojc.tk)
+<br/>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -20,7 +20,5 @@
 
 <br><br>
 
-<a href="#" height="28px" align="left"> <img align="left" src="https://komarev.com/ghpvc/?username=pablojcdev&label=Profile%20views&color=0e75b6&style=flat" alt="pablojcdev"/></a>
+<a href="#" align="left"><img align="left" src="https://komarev.com/ghpvc/?username=pablojcdev&label=Profile%20views&color=0e75b6&style=flat" alt="NazmusSayad"/></a>
 
-  
-[website]: https://pablojc.tk
