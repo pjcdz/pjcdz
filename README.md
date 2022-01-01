@@ -6,7 +6,7 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablojcdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablojcdev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablojcdev&langs_count=7&theme=dracula"/>
 </div>
   
 <h3 style="font-size: 2rem;font-weight:bold" align="center">Languages and Tools:</h1>
