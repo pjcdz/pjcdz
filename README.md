@@ -1,5 +1,5 @@
-<h3 style="font-size: 2rem;font-weight:bold" align="center">Hi, I'm Pablo Cardozo</h1>
-<h1 align="center">A newbie web developer.</h2>
+<h3 style="font-size: 2rem;font-weight:bold" align="center">Hi! I'm Pablo Cardozo</h1>
+<h1 align="center">A newbie developer</h2>
 <p align="center">Currently learning Python at college</p>
 
 <br/>
