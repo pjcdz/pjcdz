@@ -17,7 +17,7 @@
 <img alt="CSS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img alt="JS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="Django" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+<img alt="Django" width="32px" src="https://img.icons8.com/ios-filled/50/000000/django.png">
 </p>
   
 <h3 style="font-size: 2rem;font-weight:bold" align="center">Contact Me:</h1>
