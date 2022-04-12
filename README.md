@@ -23,10 +23,10 @@
 <h3 style="font-size: 2rem;font-weight:bold" align="center">Contact Me:</h1>
 
 <p align="center" margin="0px 50px">
-  <a href="https://www.instagram.com/pablojcdev">
+  <a href="https://www.instagram.com/pjcdev">
     <img alt="Instagram" width="32px" src="http://svgur.com/i/dDM.svg">
   </a>
-  <a href="https://twitter.com/pablojcdev">
+  <a href="https://twitter.com/pjcdev">
     <img alt="Twitter" width="32px" src="http://svgur.com/i/dCL.svg">
   </a>
 </p>
