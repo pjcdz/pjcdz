@@ -17,7 +17,8 @@
 <img alt="CSS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img alt="JS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="Django" width="76px" src="https://infooptima.net/wp-content/uploads/2016/02/Django-logo.svg_.png"/>
+<img alt="Django" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img alt="C" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </p>
   
 <h3 style="font-size: 2rem;font-weight:bold" align="center">Contact Me:</h1>
