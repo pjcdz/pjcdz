@@ -1,6 +1,6 @@
-<h3 style="font-size: 2rem;font-weight:bold" align="center">Oi! I'm Pablo Cardozo</h1>
-<h1 align="center">A newbie developer</h2>
-<p align="center">Currently learning Python at college</p>
+<h1 style="font-size: 2rem;font-weight:bold" align="center">Pablo Cardozo</h1>
+<h3 align="center">2nd year Software Engineer Student at UCA</h3>
+<p align="center">looking to learn web/sre development ✨</p>
 
 <br/>
 
@@ -34,14 +34,20 @@
   <img alt="C++" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </p>
   
-<h3 style="font-size: 2rem;font-weight:bold" align="center">Contact Me:</h1>
+<h3 style="font-size: 2rem;font-weight:bold" align="center">Socials:</h1>
 
 <p align="center" margin="0px 50px">
-  <a href="https://www.instagram.com/pjcdev">
-    <img alt="Instagram" width="32px" src="http://svgur.com/i/dDM.svg">
+  <a href="https://www.linkedin.com/in/pjcdz/">
+    <img alt="Instagram" width="40px" src="https://img.icons8.com/?size=512&id=13930&format=png">
   </a>
-  <a href="https://twitter.com/pjcdev">
-    <img alt="Twitter" width="32px" src="http://svgur.com/i/dCL.svg">
+  <a href="https://www.instagram.com/pjcdz/">
+    <img alt="Instagram" width="40px" src="https://img.icons8.com/?size=512&id=32323&format=png">
+  </a>
+  <a href="https://www.twitch.tv/pjcdz">
+    <img alt="Twitch" width="40px" src="https://img.icons8.com/?size=512&id=18103&format=png">
+  </a>
+  <a href="https://twitter.com/pjcdz_">
+    <img alt="Twitter" width="40px" src="https://img.icons8.com/?size=512&id=13963&format=png">
   </a>
 </p>
   
