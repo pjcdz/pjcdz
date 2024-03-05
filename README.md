@@ -1,4 +1,4 @@
-<h1 style="font-size: 2rem;font-weight:bold" align="center">Pablo Cardozo</h1>
+<h1 style="font-size: 2rem;font-weight:bold" align="center">Pablo Joaquín Cardozo</h1>
 <h3 align="center">3rd year Software Engineer Student at UCA</h3>
 <p align="center">looking to learn web/sre development ✨</p>
 
