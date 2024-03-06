@@ -3,12 +3,12 @@
 <p style="pointer-events: none;" align="center">looking to learn web/sre development ✨</p>
 
 ## 🌐 Socials:
-<a href="https://instagram.com/pjcdz">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="height:24px;">
-</a>
-
 <a href="https://linkedin.com/in/pjcdz">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height:24px;">
+</a>
+
+<a href="https://instagram.com/pjcdz">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="height:24px;">
 </a>
 
 <a href="https://twitch.tv/pjcdz">
