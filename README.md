@@ -38,6 +38,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+![Self-Host](https://img.shields.io/badge/SelfHosted-%2300000f.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-6DA55F?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-F38020?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
