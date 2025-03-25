@@ -1,5 +1,5 @@
 <h1 style="font-size: 2rem; font-weight:bold; pointer-events: none;" align="center">Pablo Joaquín Cardozo</h1>
-<h3 style="pointer-events: none;" align="center">3rd year Software Engineer Student at UCA</h3>
+<h3 style="pointer-events: none;" align="center">3rd year Software Engineer Student</h3>
 <p style="pointer-events: none;" align="center">looking to learn web/sre development ✨</p>
 
 ## 🌐 Socials:
