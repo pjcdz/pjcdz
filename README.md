@@ -63,6 +63,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-6DA55F?style=for-the-badge&logo=nginx&logoColor=white)
 ![Self-Host](https://img.shields.io/badge/Self--Hosted-%232300000f.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
 
 ## 📊 Observability:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
