@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/pjcdz">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height:28px;">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://pjcdz.notion.site/UCA-5c1ce97128c54afdb4471929722dfbc0?pvs=4">
